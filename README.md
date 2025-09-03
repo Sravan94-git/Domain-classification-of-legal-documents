@@ -72,7 +72,7 @@ Make sure you have Python 3.8+ and pip installed on your system.
 #### 2. Clone the Repository
 
 ```
-git clone https://github.com/Sravan94-git/Domain-classification-of-legal-documents.git
+git clone [https://github.com/Sravan94-git/Domain-classification-of-legal-documents.git](https://github.com/Sravan94-git/Domain-classification-of-legal-documents.git)
 cd Domain-classification-of-legal-documents
 ```
 
